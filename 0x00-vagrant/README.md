@@ -1,0 +1,1 @@
+Vagrant directory file
